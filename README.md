@@ -12,6 +12,10 @@ Get in touch or follow me:
 
 # Quote to begin with 
 
+> "If the human body was making a new organ every week, doctors would be googling this shit."
+
+(On the state of the JavaScript community; author Unknown; date: beginning of 21 century)
+
 <!-- MarkdownTOC autoanchor='true' autolink='true' -->
 
 - [Example of what we can do we 3D on the web](#example-of-what-we-can-do-we-3d-on-the-web)
