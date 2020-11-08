@@ -1,8 +1,10 @@
 # 3D on the web. WebGL, Babylon JS and Three JS
 
-Kiril Mitov (kmitov [at] axlessoft [dot] com), CTO Axlessoft, October 2020 
+Kiril Mitov (kmitov [at] axlessoft [dot] com), CTO Axlessoft, November 2020 
 
 Get in touch or follow me:
+
+[thebravoman (github)](https://github.com/thebravoman)
 
 [thebravoman (twitter)](https://twitter.com/thebravoman)
 
